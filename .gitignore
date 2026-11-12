@@ -1,0 +1,5 @@
+receipt.jpg
+receipt_text.txt
+receipt_analysis.csv
+__pycache__/
+*.pyc
